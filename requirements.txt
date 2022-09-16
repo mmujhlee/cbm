@@ -1,0 +1,6 @@
+opencv-python==4.1.2.30
+pandas
+numpy
+pyqt5
+pyqtgraph
+openpyxl

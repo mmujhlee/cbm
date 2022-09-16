@@ -1,0 +1,2 @@
+start python strainer_clogging_inference_server.py
+start python tcpclient_ams_gui_v01.py
